@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "810236014769",
+    "project_id": "widewiser-fa1f5",
+    "storage_bucket": "widewiser-fa1f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810236014769:android:9bacce898e4b8090aab290",
+        "android_client_info": {
+          "package_name": "com.example.webwiders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810236014769-0emj5ifda18adi9ddcse06ohadbqm21e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webwiders",
+            "certificate_hash": "6d67320b31328589559f88b2b345e31a26f5fd8c"
+          }
+        },
+        {
+          "client_id": "810236014769-69tf2r8p4ga6cf48lrmqksv28s0mvdqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSlO1Ze3XAAzwM9DzKvFq41hqUvQ21gLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810236014769-69tf2r8p4ga6cf48lrmqksv28s0mvdqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
